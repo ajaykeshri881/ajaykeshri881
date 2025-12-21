@@ -53,7 +53,6 @@ I'm <b>Ajay Keshri</b>, a Computer Science student and <b>aspiring MERN Stack De
 
 <p align="left">
 🚀 Advanced DSA practice in Java with a focus on interview patterns<br>
-🛠️ MERN stack projects including authentication, REST APIs, and database modeling<br>
 📈 Improving performance, scalability, and code quality in real-world applications
 </p>
 

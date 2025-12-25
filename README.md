@@ -48,7 +48,7 @@
 
 <br/>
 
-### 📊 Performance & Stats
+### 📊 Leetcode Stats
 
 <br/>
 

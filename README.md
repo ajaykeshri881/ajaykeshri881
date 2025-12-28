@@ -51,10 +51,9 @@
 ### 📊 Leetcode Stats
 
 <br/>
-
 <div align="center">
   <a href="https://leetcode.com/ajaykeshri881">
-    <img src="https://leetcard.jacoblin.cool/ajaykeshri881?theme=unicorn&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/ajaykeshri881?theme=unicorn&font=Fira%20Code" alt="LeetCode Stats" />
   </a>
 </div>
 
